@@ -9,8 +9,8 @@ export default function HelloWorldApp() {
         justifyContent: "center",
         alignItems: "center"
       }}>
-      <Text>Reda Mehali <Text>, software engineer</Text></Text>
-      <Text>I'm taking MAPD712 through Centennial College</Text>
+      <Text>Reda Mehali <Text>, student ID: 301159604</Text></Text>
+      <Text>I'm currently enrolled in MAPD712</Text>
     </View>
     )
 }
